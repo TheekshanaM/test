@@ -6,11 +6,10 @@ class Test
     { 
         System.out.println("Hello");
         System.out.println("2.1");
-        System.out.println("3.1");
-        System.out.println("2.2");
+        int x= 3;
         System.out.println("Hello1");
         System.out.println("3.2");
-        System.out.println("Hello4");
+        System.out.println("Hello");
         System.out.println("2.3");
     } 
 } 
